@@ -1,0 +1,17 @@
+---
+
+Id: Mozilla.Firefox-de
+Version: 82.0
+Name: Firefox
+Publisher: Mozilla
+License: Mozilla Public License Version 2.0
+LicenseUrl: https://www.mozilla.org/en-US/MPL/2.0/
+AppMoniker: Firefox-de
+Tags: Firefox,Browser
+Homepage: https://www.mozilla.org/de/firefox/new/
+Installers:
+  - Arch: x64
+    Url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/82.0/win64/de/Firefox%20Setup%2082.0.msi
+    Sha256: A2D068485BC1AA03A9552E696682AEF1776B7E2C7B4EA8BA035108B2881961FE
+    InstallerType: msi
+
